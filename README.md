@@ -11,3 +11,4 @@ Processes ordered by sequence, coded by number at the start of the file name:
 6.  Edge definition (Generation of networks) & calculation of Habitat availability predictor, changing the d0 parameter to implement different maximum dispersal distances
 7.  Definition of Absences, Calculation of topological predictors, Boosted Regression Trees (BRT's) Modelling - For species-specific maximum dispersal distance
 8.  Definition of Absences, Calculation of topological predictors, Boosted Regression Trees (BRT's) Modelling - For all the alternative max. disp. dists. +  Comparison of the performance among all the network models with different maximum dispersal distances
+8a. Table used in 8 (Line 8453), which was generated with the same data, but outside of R   

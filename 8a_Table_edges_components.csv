@@ -1,0 +1,48 @@
+Species,Max_Disp_Dist,Number_of_patches,Number_of_edges,Number_of_components,,model
+Alytes obstetricans,300m,2395,519,1907,300,Alobs_300mDispDist
+Alytes obstetricans,1Km,2395,2441,1014,1000,Alobs_1KmDispDist
+Alytes obstetricans,Species-specific_1.5Km,2395,4347,561,1500,Alobs_defaultDispDist
+Alytes obstetricans,2Km,2395,6617,299,2000,Alobs_2KmDispDist
+Alytes obstetricans,4Km,2395,19344,41,4000,Alobs_4KmDispDist
+Alytes obstetricans,6Km,2395,37615,8,6000,Alobs_6KmDispDist
+Alytes obstetricans,8Km,2395,61222,6,8000,Alobs_8KmDispDist
+Alytes obstetricans,10Km,2395,89911,3,10000,Alobs_10KmDispDist
+Bombina variegata,300m,2735,722,2050,300,Bovar_300mDispDist
+Bombina variegata,1Km,2735,3129,980,1000,Bovar_1KmDispDist
+Bombina variegata,2Km,2735,8435,257,2000,Bovar_2KmDispDist
+Bombina variegata,Species-specific_4Km,2735,23959,34,4000,Bovar_defaultDispDist
+Bombina variegata,6Km,2735,46006,7,6000,Bovar_6KmDispDist
+Bombina variegata,8Km,2735,73582,3,8000,Bovar_8KmDispDist
+Bombina variegata,10Km,2735,106671,1,10000,Bovar_10KmDispDist
+Hyla arborea,300m,1900,530,1398,300,Hyarb_300mDispDist
+Hyla arborea,1Km,1900,2169,706,1000,Hyarb_1KmDispDist
+Hyla arborea,2Km,1900,5644,235,2000,Hyarb_2KmDispDist
+Hyla arborea,Species-specific_2.6Km,1900,8398,134,2657,Hyarb_defaultDispDist
+Hyla arborea,4Km,1900,15022,41,4000,Hyarb_4KmDispDist
+Hyla arborea,6Km,1900,26886,9,6000,Hyarb_6KmDispDist
+Hyla arborea,8Km,1900,41412,4,8000,Hyarb_8KmDispDist
+Hyla arborea,10Km,1900,58286,2,10000,Hyarb_10KmDispDist
+Epidalea  calamita,300m,2010,524,1516,300,Epcal_300mDispDist
+Epidalea  calamita,1Km,2010,2155,831,1000,Epcal_1KmDispDist
+Epidalea  calamita,2Km,2010,5745,308,2000,Epcal_2KmDispDist
+Epidalea  calamita,4Km,2010,15814,53,4000,Epcal_4KmDispDist
+Epidalea  calamita,Species-specific_4.4Km,2010,18427,35,4411,Epcal_defaultDispDist
+Epidalea  calamita,6Km,2010,29425,15,6000,Epcal_6KmDispDist
+Epidalea  calamita,8Km,2010,46564,6,8000,Epcal_8KmDispDist
+Epidalea  calamita,10Km,2010,66357,1,10000,Epcal_10KmDispDist
+Pelophylax agg. ,300m,3074,762,2351,300,Peagg_300mDispDist
+Pelophylax agg.,1Km,3074,3509,1078,1000,Peagg_1KmDispDist
+Pelophylax agg.,Species-specific_1.7Km,3074,7982,357,1760,Peagg_defaultDispDist
+Pelophylax agg.,2Km,3074,9675,248,2000,Peagg_2KmDispDist
+Pelophylax agg.,4Km,3074,29528,21,4000,Peagg_4KmDispDist
+Pelophylax agg.,6Km,3074,56927,1,6000,Peagg_6KmDispDist
+Pelophylax agg.,8Km,3074,91299,1,8000,Peagg_8KmDispDist
+Pelophylax agg.,10Km,3074,132013,1,10000,Peagg_10KmDispDist
+Pelophylax ridibundus ,300m,1256,393,882,300,Perid_300mDispDist
+Pelophylax ridibundus ,1Km,1256,1563,413,1000,Perid_1KmDispDist
+Pelophylax ridibundus ,Species-specific_1.7Km,1256,3231,193,1760,Perid_defaultDispDist
+Pelophylax ridibundus ,2Km,1256,3782,155,2000,Perid_2KmDispDist
+Pelophylax ridibundus ,4Km,1256,9453,39,4000,Perid_4KmDispDist
+Pelophylax ridibundus ,6Km,1256,16511,18,6000,Perid_6KmDispDist
+Pelophylax ridibundus,8Km,1256,25195,7,8000,Perid_8KmDispDist
+Pelophylax ridibundus,10Km,1256,34627,5,10000,Perid_10KmDispDist
